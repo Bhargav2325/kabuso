@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.mainbg{
+  background-image: url("../public/images/herosticky.21d438492c38ebc166a5\ \(1\).png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.aboutbg{
+  background-image: url("../public/images/clopud3.172f13d6ca8922b428f8.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
